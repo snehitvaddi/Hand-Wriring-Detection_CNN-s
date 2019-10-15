@@ -1,4 +1,4 @@
-# Hand-Wriring-Detection_CNN-s
+# Hand-Writing-Detection_CNN-s
 
 *In this project/Repo we do Recognition of Hand written numbers using CNN's( Convolutoin Nural Networks ).
 
